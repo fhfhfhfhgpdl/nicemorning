@@ -1,5 +1,5 @@
 # nicemorning
-***
+
 >####Let's automatically send morning greetings to your parents!
 
 ###Pushbullet
