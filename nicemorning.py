@@ -30,7 +30,7 @@ def send():
   pb = Pushbullet(access_token)
   print(pb.devices)
 
-  time.sleep(3600)  #2hour
+  time.sleep(7200)  #2hour
 
   device = pb.devices[1]
   now = datetime.now()
