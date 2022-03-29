@@ -3,7 +3,7 @@
 >Let's automatically send morning greetings to your parents!  
 
 <h3>Pushbullet</h3>  
-you can sigh up <b>Pushbullet</b> at : https://www.pushbullet.com/
+you can sigh up <b>Pushbullet</b> at : https://www.pushbullet.com/</br>
 This service allows you to send sms using API.</br>
 You should copy your own API at Pushbullet's Settings.(Click <i>Create Access Token!</i>)</br></br>
 
