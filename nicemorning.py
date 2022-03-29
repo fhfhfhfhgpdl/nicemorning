@@ -10,8 +10,8 @@ Original file is located at
 
 
 
-
 import random
+from random import randint
 import time
 from pushbullet import Pushbullet
 import sys
@@ -30,7 +30,8 @@ def send():
   pb = Pushbullet(access_token)
   print(pb.devices)
 
-  time.sleep(7200)  #2hour
+  delay = randint(0, 7199)
+  time.sleep(delay)
 
   device = pb.devices[1]
   now = datetime.now()
