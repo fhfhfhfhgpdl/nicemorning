@@ -3,12 +3,13 @@
 >Let's automatically send morning greetings to your parents!  
 
 <h3>Pushbullet</h3>  
-you can sigh up <b>Pushbullet</b> at : <a herf="https://www.pushbullet.com/">Pushbullet</a></br>
+you can sigh up <b>Pushbullet</b> at : https://www.pushbullet.com/
 This service allows you to send sms using API.</br>
 You should copy your own API at Pushbullet's Settings.(Click <i>Create Access Token!</i>)</br></br>
 
 <h3>Download Module</h3>  
-You can Download  <a herf="https://pypi.org/project/pushbullet.py/0.9.1/">pushbullet.py</a>
+You can Download <a herf="https://pypi.org/project/pushbullet.py/0.9.1/">pushbullet.py</a>
+
 <pre><code>
 pip install pushbullet.py
 </code></pre></br></br>
